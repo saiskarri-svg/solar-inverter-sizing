@@ -53,4 +53,4 @@ solar_model/
 
 ## About
 
-Built by **Sai Karri**, a PMP-certified project manager delivering utility-scale and C&I battery storage projects. Companion project: [BESS sizing for AI data centers](../bess-ai-datacenter-sizing).
+Built by **Sai Karri**, a PMP-certified project manager delivering utility-scale and C&I battery storage projects. Companion project: [BESS sizing for AI data centers](https://github.com/saiskarri-svg/bess-ai-datacenter-sizing).
