@@ -1,5 +1,8 @@
 # Solar PV & Inverter Sizing Tool
 
+**[▶ Try the live app](https://solar-inverter-sizing-jk7rep5yblztw2mqlwgpkf.streamlit.app/)**  ·  no install needed
+
+
 A design tool for utility-scale and C&I solar: it sizes strings to code, picks the inverter count, simulates a year of hourly output, and finds the **DC/AC ratio with the lowest cost of energy**. It also shows how much clipped energy a **DC-coupled battery** could recover, which links solar design to storage.
 
 ![App screenshot](docs/app_screenshot.png)
@@ -53,4 +56,4 @@ solar_model/
 
 ## About
 
-Built by **Sai Karri**, a PMP-certified project manager delivering utility-scale and C&I battery storage projects. Companion project: [BESS sizing for AI data centers](https://github.com/saiskarri-svg/bess-ai-datacenter-sizing).
+Built by **Sai Karri**, a PMP-certified project manager delivering utility-scale and C&I battery storage projects. Companion project: [BESS sizing for AI data centers](https://github.com/saiskarri-svg/bess-ai-datacenter-sizing) ([live app](https://bess-ai-datacenter-sizing-jhoaqwoaaw95tmoelzzvbe.streamlit.app/)).
